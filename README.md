@@ -22,4 +22,4 @@ The scripts were written for the following publication: M. Sedghizadeh, R. Shche
 2. run **nnd_analysis.m** to perform the GNND analysis.
 3. run **rate_analysis.m** to fit the Hawkes point process or ETAS model.
 
-These entry scripts specify all the initial parameters needed to perform the corresponding tasks. **Model** structure is used to pass the information into most functions. Model.sRegion specifies the region to analize and must match the corresponding folder name. 
+These entry scripts specify all the initial parameters needed to perform the corresponding tasks. **Model** structure is used to pass the information into most functions. 
