@@ -1,6 +1,6 @@
 ## Generalized Nearest Neighbour Distance (GNND) method and Hawkes point process modelling
 
-The scripts were written for the following publication: M. Sedghizadeh, R. Shcherbakov, M. van den Berghe (2025) Generalized Nearest-Neighbor Distance and Hawkes point process modeling applied to mining induced seismicity, The Seismic Record, 5, 195-206. https://pubs.geoscienceworld.org/ssa/tsr/article/5/2/195/654356/Generalized-Nearest-Neighbor-Distance-and-Hawkes
+The scripts were written for the following publication: M. Sedghizadeh, R. Shcherbakov, M. van den Berghe (2025) Generalized Nearest-Neighbor Distance and Hawkes point process modeling applied to mining induced seismicity, The Seismic Record, 5, 195-206. doi: https://doi.org/10.1785/0320250013
 
 ### Directory structure
 **MATLAB/** folder contains the Matlab scripts that perform specific tasks. The following subfolderes contain functions:
